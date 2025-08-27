@@ -19,7 +19,7 @@ function Form(){
                   <label for="mensagem">Mensagem:</label>
                   <textarea name="mensagem" id="mensagem"></textarea>
                 </div>
-s
+
                 <div>
                   <label for="idade">Idade:</label>
                   <input type="number" name="idade" id="idade" min="18" max="100"/>
