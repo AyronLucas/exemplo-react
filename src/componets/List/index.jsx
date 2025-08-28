@@ -1,9 +1,9 @@
 import './style.css'
 
-function List({ titulo}){
+function List({titulo}){
     return(
         <section>
-          <h2 id="exemplo-h2">{titulo}</h2>
+          <h2>{ titulo } || Lista um </h2>
 
           <h3>
             Lista não ordenada
